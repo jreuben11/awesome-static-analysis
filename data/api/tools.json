@@ -20651,7 +20651,7 @@
     "plans": null,
     "description": "A linter, formatter for finding and removing unused import statements.",
     "discussion": null,
-    "deprecated": true,
+    "deprecated": null,
     "resources": null,
     "reviews": null,
     "demos": null,

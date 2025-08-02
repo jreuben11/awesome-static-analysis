@@ -1046,7 +1046,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [ruff](https://astral.sh/ruff) — Fast Python linter, written in Rust. 10-100x faster than existing linters. Compatible with Python 3.10. Supports file watcher.
 
-- [unimport](https://unimport.hakancelik.dev) :warning: — A linter, formatter for finding and removing unused import statements.
+- [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.
 
 - [vulture](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
 
